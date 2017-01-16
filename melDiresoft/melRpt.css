@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	margin:0px; 
+	padding-top:6px;
+	padding-right:0px;
+	padding-bottom:6px;
+	padding-left:24px;
+	background-color:#FFFFFF; 
+	color:#000000; 
+	border-bottom:none; 
+	font-family:Arial;
+	font-size:18px;
+	font-weight:normal;
+	clear:both;
+}
+div.listaRpt {
+	margin-top:12px;
+	margin-right:12px;
+	margin-bottom:12px;
+	margin-left:12px;
+	padding:0px;
+	width:740px;
+}
+div.listaFilaTitulo {
+	margin-top: 0px;
+	margin-right: 1px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color:#FFFFFF; 
+	color:#000000; 
+	border-bottom:2px solid #000000; 
+	font-family:Arial; 
+	font-weight:normal;
+}
+div.listaFilaPie{
+	margin-top: 0px;
+	margin-right: 1px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-color:#FFFFFF; 
+	color:#000000;
+	border-top:2px solid #000000; 
+	font-family:Arial; 
+	font-weight:normal;
+}
+div.listaFilaNormal1 {
+	margin: 0px; 
+	padding: 2px;
+	background-color: #FFFFFF;
+	text-decoration: inherit;
+}
